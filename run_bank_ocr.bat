@@ -8,7 +8,8 @@ if errorlevel 1 (
   exit /b 1
 )
 
-python bank_pdf_to_excel_ocr.py
+python pdf_to_excel_bank.py
 echo.
 echo (Completed. Press any key to close.)
 pause >nul
+
