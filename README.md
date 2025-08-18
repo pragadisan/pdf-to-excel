@@ -1,4 +1,4 @@
-# 📑 Bank PDF → Excel with OCR  
+# pre alpha stage!!! 
 
 A simple **Windows desktop app** (Tkinter + Python) that converts **bank statement PDFs** into clean **Excel tables**.  
 
