@@ -2,7 +2,7 @@
 
 A simple **Windows desktop app** (Tkinter + Python) that converts **bank statement PDFs** into clean **Excel tables**.  
 
-✨ Supports **Axis, HDFC, SBI, ICICI, and more** — works with both **text-based PDFs** and **scanned statements**.  
+✨ Works with both **text-based PDFs** and **scanned statements**.  
 
 ---
 
