@@ -24,8 +24,9 @@ A made-it-simple **Windows desktop app** (Tkinter + Python) that converts **bank
 1. Install Python **3.9+** from [python.org](https://www.python.org/downloads/)  
    > ☑️ During install, tick **“Add Python to PATH”**  
 
+2. Install C++ VS **2015+** from [microsoft.com](https://www.microsoft.com/en-in/download//details.aspx?id=48145&msockid=38f389d4ee3663ec07d39f99ef4962d2/)  
 
-2. Install required packages:  
+3. Install required packages:  
 
 ```bash
 python -m pip install --upgrade pip
