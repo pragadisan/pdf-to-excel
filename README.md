@@ -8,7 +8,7 @@ A made-it-simple **Windows desktop app** (Tkinter + Python) that converts **bank
 
 ## 🔥 Features  
 
-✅ **Pick one** 
+✅ **Picks a PDF** \
 ⚡ **Fast text parsing** with PyMuPDF  
 🔍 **OCR fallback** with EasyOCR CPU/(GPU WIP)  
 📊 Exports a clean **Excel Table** (`.xlsx`) with columns:  
