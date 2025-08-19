@@ -31,7 +31,8 @@ python -m pip install --upgrade pip
 pip install pymupdf pillow numpy pandas openpyxl
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 pip install easyocr
-👉 If you have a supported GPU (CUDA), install GPU-enabled PyTorch from pytorch.org.
+👉 If you have a supported GPU (CUDA), install GPU-enabled PyTorch from pytorch.org. 
+```
 
 ▶️ Usage
 Clone this repo or download the source:
