@@ -38,23 +38,11 @@ pip install easyocr
 
 
 ▶️ Usage
-Clone this repo or download the source:
+Download the bat and py file and open the bat file  
+
+  
 
 
-```bash
-Copy
-Edit
-git clone https://github.com/pragadisan/pdf-to-excel.git
-cd bank-pdf-to-excel
-```
-Run the app:
-
-```
-bash
-Copy
-Edit
-python pdf_to_excel_ocr_gui.py
-```
 
 Steps inside the app:
 
