@@ -1,6 +1,6 @@
 # pre alpha stage!!! 
 
-A simple **Windows desktop app** (Tkinter + Python) that converts **bank statement PDFs** into clean **Excel tables**.  
+A made-it-simple **Windows desktop app** (Tkinter + Python) that converts **bank statement PDFs** into clean **Excel tables**.  
 
 ✨ Works with both **text-based PDFs** and **scanned statements**.  
 
@@ -8,9 +8,9 @@ A simple **Windows desktop app** (Tkinter + Python) that converts **bank stateme
 
 ## 🔥 Features  
 
-✅ **Pick one or many PDFs** in one go  
+✅ **Pick one** 
 ⚡ **Fast text parsing** with PyMuPDF  
-🔍 **OCR fallback** with EasyOCR (CPU / GPU)  
+🔍 **OCR fallback** with EasyOCR CPU/(GPU WIP)  
 📊 Exports a clean **Excel Table** (`.xlsx`) with columns:  
 - 📅 `Date`  
 - 📝 `Particulars`  
@@ -23,6 +23,7 @@ A simple **Windows desktop app** (Tkinter + Python) that converts **bank stateme
 
 1. Install Python **3.9+** from [python.org](https://www.python.org/downloads/)  
    > ☑️ During install, tick **“Add Python to PATH”**  
+
 
 2. Install required packages:  
 
