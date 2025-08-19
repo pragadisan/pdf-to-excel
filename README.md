@@ -33,9 +33,7 @@ pip install pymupdf pillow numpy pandas openpyxl
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 pip install easyocr
 
-
 ```
-👉 If you have a supported GPU (CUDA), install GPU-enabled PyTorch from pytorch.org. 
 
 
 ▶️ Usage
@@ -45,7 +43,7 @@ Clone this repo or download the source:
 ```bash
 Copy
 Edit
-git clone https://github.com/yourusername/bank-pdf-to-excel.git
+git clone https://github.com/pragadisan/pdf-to-excel.git
 cd bank-pdf-to-excel
 ```
 Run the app:
@@ -54,14 +52,12 @@ Run the app:
 bash
 Copy
 Edit
-python bank_pdf_to_excel_ocr_gui.py
+python pdf_to_excel_ocr_gui.py
 ```
 
 Steps inside the app:
 
-🖱️ Click Pick PDF(s) and select one or more statements
-
-⚡ (Optional) Tick Use GPU if available
+🖱️ Click Pick PDF and select one statement
 
 🌀 Click Convert to Excel
 
@@ -84,7 +80,7 @@ HDFC_July.pdf   →   HDFC_July.xlsx
 
 🚧 Roadmap
  📑 Combine multiple PDFs → one Excel with multiple sheets
+ 🐍 GPU support
  🔧 Smarter regex tuning for different banks
  📂 Export to CSV as well as Excel
- 🐳 Dockerized version
 
